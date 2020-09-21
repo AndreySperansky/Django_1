@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    Вы уверены что хотите удалить
+    {{object.name}}
+    <form method="post">
+        {% csrf_token %}
+        <button type="submit">Да</button>
+    </form>
+</body>
+</html>
