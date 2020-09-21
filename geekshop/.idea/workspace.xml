@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="111e03e3-cee5-4126-8ba1-e7b473ebea83" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1f0LDBSoo2BgRX1l3puNqgc3IPw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/img" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Andrey_User\PycharmProjects\geekshop\static\img" />
+      <recent name="C:\Users\Andrey_User\PycharmProjects\geekshop" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Andrey_User\PycharmProjects\geekshop\static\img" />
+      <recent name="C:\Users\Andrey_User\PycharmProjects\geekshop" />
+      <recent name="C:\Users\Andrey_User\PycharmProjects\geekshop\mainapp\templates\mainapp" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="geekshop" type="PythonConfigurationType" factoryName="Python">
+      <module name="geekshop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="111e03e3-cee5-4126-8ba1-e7b473ebea83" name="Default Changelist" comment="" />
+      <created>1595349941361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595349941361</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="426" y="107" key="#Inspections" timestamp="1595351827128">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="426" y="107" key="#Inspections/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1595351827128" />
+    <state x="249" y="126" width="1259" height="693" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595954646484">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="249" y="126" width="1259" height="693" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1595954646484" />
+    <state x="535" y="223" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595965193531">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="535" y="223" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1595965193531" />
+    <state x="502" y="123" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1595954302708">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="502" y="123" key="#com.intellij.ide.macro.MacrosDialog/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1595954302708" />
+    <state x="578" y="0" key="EnvironmentVariablesDialog" timestamp="1595954275184">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="578" y="0" key="EnvironmentVariablesDialog/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1595954275184" />
+    <state x="659" y="306" key="FileChooserDialogImpl" timestamp="1595954642410">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="659" y="306" key="FileChooserDialogImpl/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1595954642410" />
+    <state width="1562" height="251" key="GridCell.Tab.0.bottom" timestamp="1595973558031">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1562" height="251" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1595973558031" />
+    <state width="1562" height="251" key="GridCell.Tab.0.center" timestamp="1595973558031">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1562" height="251" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1595973558031" />
+    <state width="1562" height="251" key="GridCell.Tab.0.left" timestamp="1595973558031">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1562" height="251" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1595973558031" />
+    <state width="1562" height="251" key="GridCell.Tab.0.right" timestamp="1595973558031">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1562" height="251" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1595973558031" />
+    <state width="1562" height="251" key="GridCell.Tab.1.bottom" timestamp="1595973558032">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1562" height="251" key="GridCell.Tab.1.bottom/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1595973558032" />
+    <state width="1562" height="251" key="GridCell.Tab.1.center" timestamp="1595973558032">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1562" height="251" key="GridCell.Tab.1.center/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1595973558032" />
+    <state width="1562" height="251" key="GridCell.Tab.1.left" timestamp="1595973558031">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1562" height="251" key="GridCell.Tab.1.left/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1595973558031" />
+    <state width="1562" height="251" key="GridCell.Tab.1.right" timestamp="1595973558032">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1562" height="251" key="GridCell.Tab.1.right/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1595973558032" />
+    <state x="296" y="77" key="SettingsEditor" timestamp="1595954211127">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="296" y="77" key="SettingsEditor/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1595954211127" />
+    <state x="506" y="145" width="588" height="570" key="find.popup" timestamp="1595959323467">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="506" y="145" width="588" height="570" key="find.popup/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1595959323467" />
+  </component>
+</project>
